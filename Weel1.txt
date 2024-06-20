@@ -1,0 +1,10 @@
+Learning Activities
+Resources/Links: I used Canva (canva.com) for creating the website logo, which helped in understanding basic graphic design principles. For writing the code, I utilized Visual Studio Code (VS Code), which is widely recognized for its robust features and developer-friendly environment.
+Estimated Hours: Spent about 2 hours on Canva learning and creating the logo, ensuring it aligns with the branding of the service. Additionally, dedicated numerous hours in VS Code to develop and debug the website’s frontend and backend.
+Content Insights: The use of Canva introduced me to user-friendly graphic design tools that are essential for creating visual elements quickly and effectively. Coding in VS Code helped me better understand the application’s architecture and enhance my proficiency in using code editors.
+
+Career/Employability/Learning Insights
+Technical and Design Skills: The hands-on experience with Canva and VS Code has significantly improved my ability to integrate visual design and coding, which are crucial for a full-stack development role. The skills acquired are directly applicable to a wide range of tech positions, particularly in web development.
+Adaptability and Tool Proficiency: Learning to navigate and utilize Canva for graphic design and VS Code for programming has made me more versatile. This adaptability is highly valued in the tech industry, where the ability to learn and effectively use different tools can distinguish one in a competitive job market.
+
+This detailed involvement with both graphic design and coding tools not only enhanced my technical skills but also my understanding of how visually appealing and functional elements come together in web development. This dual-focus approach ensures that I am not only a coder but also consider the aesthetic and user experience aspects of software development, making me a more well-rounded developer.
